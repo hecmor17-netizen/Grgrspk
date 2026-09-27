@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'cl.grabahec.app'; compileSdk 35
+    defaultConfig { applicationId 'cl.grabahec.app'; minSdk 26; targetSdk 35; versionCode 3; versionName '1.2.0' }
+}

@@ -1,0 +1,6 @@
+PT Sans / PT Sans Narrow
+
+The bundled PT Sans Narrow font files are distributed under the SIL Open Font License, Version 1.1.
+The font is used only as a compact visual approximation for the plate/engraving template.
+
+SIL OFL 1.1 text: https://scripts.sil.org/OFL
